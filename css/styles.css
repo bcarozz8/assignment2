@@ -1,6 +1,13 @@
 .cis260specialgreen { 
-    color: #4fd0be
+    color: #4fd0be;
+    font-weight: bold
 }
 
 #cis-special-parent a { 
 color:beige }
+
+#content p { 
+    color: blue; 
+
+
+}
